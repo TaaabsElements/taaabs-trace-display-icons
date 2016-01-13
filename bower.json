@@ -1,0 +1,31 @@
+{
+  "name": "taaabs-trace-display-icons",
+  "version": "1.0.0",
+  "description": "`<taaabs-base>` is a graphical representation of a KTBS Base.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-trace-display-icons.git"
+  },
+  "main": "taaabs-trace-display-icons.html",
+  "license": "https://github.com/TaaabsElements/taaabs-trace-display-icons/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "samotracesjs": "https://github.com/liris-tweak/samotraces.js.git#0.21.0",
+    "paper-spinner": "PolymerElements/paper-spinner",
+    "paper-checkbox": "PolymerElements/paper-checkbox",
+    "taaabs-lazy-loading-behavior": "https://github.com/TaaabsElements/taaabs-lazy-loading-behavior.git"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
