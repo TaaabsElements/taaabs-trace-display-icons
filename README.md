@@ -1,6 +1,6 @@
 # taaabs-trace-display-icons
 
-`<taaabs-trace-display-icons>` is an element that is displaying a Trace
+`<taaabs-trace-display-icons>` is an element that is displaying a Trace.
 
 The `<taaabs-trace-display-icons>` element exposes the following attributes
 - timeWindow

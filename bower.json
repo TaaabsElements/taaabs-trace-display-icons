@@ -1,7 +1,7 @@
 {
   "name": "taaabs-trace-display-icons",
   "version": "1.0.0",
-  "description": "`<taaabs-base>` is a graphical representation of a KTBS Base.",
+  "description": "`<taaabs-trace-display-icons>` is an element that is displaying a Trace.",
   "keywords": [
     "web-components",
     "polymer",
